@@ -9,7 +9,7 @@ The data is extracted from the following Wikipedia page:
 
 ## Project Files
 - **data_scraping.py**: Python script for web scraping and saving the extracted data.
-- **data_scraping.csv**: The resulting dataset extracted from Wikipedia, uploaded in this repository.
+- **data_scraped.csv**: The resulting dataset extracted from Wikipedia, uploaded in this repository.
 - **README.md**: Documentation for this project.
 
 
